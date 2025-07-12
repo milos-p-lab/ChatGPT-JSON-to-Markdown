@@ -5,6 +5,8 @@ A simple PowerShell script that converts exported ChatGPT conversations (`conver
 > ✍️ **Author:** Miloš Perunović  
 > 🗓️ **Date:** 2025-06-24
 
+> Note: The term *convertor* is also commonly used, though converter is the standard spelling in technical documentation.
+
 ---
 
 ## 🚀 Features
