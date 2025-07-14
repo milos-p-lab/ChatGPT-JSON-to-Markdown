@@ -13,7 +13,7 @@ A simple PowerShell script that converts exported ChatGPT conversations (`conver
 
 - Converts ChatGPT JSON exports into Markdown format.
 - Preserves conversation order and message roles (User / Assistant).
-- Extracts and includes the **date and time** of each conversation and message.
+- Extracts and includes the 🗓️ **date and time** of each conversation and message.
 - Generates clean, readable Markdown for easy archiving or publishing.
 
 ---
