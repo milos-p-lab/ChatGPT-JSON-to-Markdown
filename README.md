@@ -5,8 +5,6 @@ A simple PowerShell script that converts exported ChatGPT conversations (`conver
 > ✍️ **Author:** Miloš Perunović  
 > 🗓️ **Date:** 2025-07-14
 
-> Note: The term *convertor* is also commonly used, though converter is the standard spelling in technical documentation.
-
 ---
 
 ## 🚀 Features
@@ -23,9 +21,9 @@ A simple PowerShell script that converts exported ChatGPT conversations (`conver
 When you export your ChatGPT data from OpenAI, you receive a JSON file (e.g. `conversations.json`) containing all your conversations.
 
 This script:
-- Parses the JSON and generates a `.md` file containing the conversations in Markdown format.
-- Includes the **conversation and message timestamps**, which are **not shown in the `chat.html` export** provided by OpenAI.  
-  > ✅ This is one of the main benefits of using this script, as it helps you accurately track when conversations took place.
+- Parses the JSON and generates a `.md` file containing your entire chat history in Markdown format.
+- Adds precise **conversation and message timestamps**, which are **not included in the default `chat.html` export**.  
+  > ✅ This is the main advantage of using this script, as it allows you to know exactly when each chat took place.
 
 ---
 
