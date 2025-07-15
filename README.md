@@ -1,5 +1,9 @@
 # 💬 ChatGPT Export to Markdown (PowerShell)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![PowerShell](https://img.shields.io/badge/powershell-5.1+-blue.svg)](https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.2)
+
+## ℹ️ About
+
 A simple PowerShell script that converts exported ChatGPT conversations (`conversations.json`) into a clean, human-readable Markdown document.
 
 > ✍️ **Author:** Miloš Perunović  
@@ -76,23 +80,6 @@ Markdown makes it easy to:
 
 ---
 
-## Keywords
-
-- ChatGPT
-- Markdown
-- PowerShell
-- JSON
-- converter
-- convertor
-
----
-
 ## 📜 License
 
 MIT License – © 2025 Miloš Perunović
-
-<!--
-Related terms:
-chatgpt markdown, chatgpt export with date and time, chatgpt conversations, powershell script,
-chatgpt to markdown, chatgpt export to markdown, chatgpt json to markdown
--->
