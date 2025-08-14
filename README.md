@@ -11,7 +11,7 @@ A simple PowerShell script that converts exported ChatGPT conversations (`conver
 
 ---
 
-## 🚀 Features
+## ✅ Features
 
 - Converts ChatGPT JSON exports into Markdown format.
 - **Extracts and includes the exact 📅 date and time for each conversation and message** — information not available in the official `chat.html` export.
@@ -20,7 +20,7 @@ A simple PowerShell script that converts exported ChatGPT conversations (`conver
 
 ---
 
-## 📂 How It Works
+## ⚙️ How It Works
 
 When you export your ChatGPT data from OpenAI, you receive a JSON file (e.g. `conversations.json`) containing all your conversations.
 
@@ -58,7 +58,7 @@ You can use this PowerShell script to convert your conversations.json file into 
 
 ---
 
-## 💡 Why Markdown?
+## ❔ Why Markdown?
 
 Markdown makes it easy to:
 
@@ -85,6 +85,6 @@ Markdown makes it easy to:
 
 ---
 
-## 📜 License
+## ⚖️ License
 
 MIT License – © 2025 Miloš Perunović
